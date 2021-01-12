@@ -227,7 +227,7 @@ if __name__=='__main__':
 'light', 'bulb', 'led', 'lighting', 'fixture', 'energy', 'incandescent', 'lamp', 'glass', 'shade',
 'blade', 'cutting', 'saw', 'cut', 'steel', 'handle', 'tool', 'speed', 'motor', 'feature',
 'water', 'valve', 'pipe', 'heater', 'faucet', 'toilet', 'tank', 'hot', 'pressure', 'fitting',
-'shelf', 'cabinet', 'storage', 'drawer', 'vanity', 'finish', 'sink', 'hardware','design','faucet']
+'shelf', 'cabinet', 'storage', 'drawer', 'vanity', 'finish', 'sink', 'hardware','design','faucet','cutting tool']
 
 
     if not searched_object:
