@@ -13,7 +13,9 @@ By selecting the item in the cluster will display top 10 trending products relat
 Eg. Let say user types bulb as search object , then the system will predict cluster group corresponding to bulb which contains bulb as well as other items related to it. 
 And Then by selecting the item in cluster will display   top 10 trending products corresponding to it.
 
-# Public Application Link:
+Front end of this application is designed using Streamlit
+
+# Web Application Link:
 https://share.streamlit.io/siddheshm14/product_recommendation/main/relevantsearch.py
  
 
